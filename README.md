@@ -4,11 +4,11 @@ I'm an Economist and [Monetary Advisor](https://www.minneapolisfed.org/people/mi
 
 ### About my repositories
 
-I use GitHub to post code I'm working on (and learning about) and replication materials from selected papers. I also use GitHub and [Heroku](www.heroku.com) to operate the website [www.tradewartracker.com](www.tradewartracker.com) providing live, visual display of international trade data. Below are selected repositories.
+I use GitHub to post code I'm working on (and learning about) and replication materials from selected papers. I also use GitHub and [Heroku](https://www.heroku.com) to operate the website [www.tradewartracker.com](https://www.tradewartracker.com) providing live, visual display of international trade data. Below are selected repositories.
 
-- [Repository](https://github.com/tradewartracker) for code behind [www.tradewartracker.com](www.tradewartracker.com) website.
+- [Repository](https://github.com/tradewartracker) for code behind [www.tradewartracker.com](https://www.tradewartracker.com) website.
 
-- [Repository](https://github.com/mwaugh0328/JIE-SW-2014) for [**The Elasticity of Trade: Estimates and Evidence**](http://www.waugheconomics.com/uploads/2/2/5/6/22563786estimate_theta_paper.pdf), with Ina Simonovska.<br> Journal of International Economics, 92(1): 34-50. January 2014.
+- [Repository](https://github.com/mwaugh0328/JIE-SW-2014) for [**The Elasticity of Trade: Estimates and Evidence**](http://www.waugheconomics.com/uploads/2/2/5/6/22563786/estimate_theta_paper.pdf), with Ina Simonovska.<br> Journal of International Economics, 92(1): 34-50. January 2014.
 
 - My [**Garvity-Estimation**](https://github.com/mwaugh0328/Gravity-Estimation) repository suplements the JIE repo with basic gravity estimation via STATA and then the computation of the [Eaton and Kortum model](https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-0262.00352) via simmulation.
 
