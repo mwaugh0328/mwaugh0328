@@ -2,11 +2,15 @@
 
 I'm an Economist and Monetary Advisor at the Federal Reserve Bank of Minneapolis and a research associate at the National Bureau of Economic Research. My research interests lie within the intersection of international trade, macroeconomics, and development.
 
-### About my work
+### About my repositories
 
-I use GitHub to post code I'm working on (and learning about) and replication materials from selected papers. I also operate the website [www.tradewartracker.com](www.tradewartracker.com) providing live, visual display of international trade data.
+I use GitHub to post code I'm working on (and learning about) and replication materials from selected papers. I also use GitHub and [Heroku](www.heroku.com) to operate the website [www.tradewartracker.com](www.tradewartracker.com) providing live, visual display of international trade data. Below are selected repositories.
 
-- Repository for code behind the [www.tradewartracker.com](www.tradewartracker.com) website is [here](https://github.com/tradewartracker) @tradewartracker
+- [Repository](https://github.com/tradewartracker) for code behind the [www.tradewartracker.com](www.tradewartracker.com) website.
+
+- [Repository](https://github.com/mwaugh0328/JIE-SW-2014) for [**The Elasticity of Trade: Estimates and Evidence**](http://www.waugheconomics.com/uploads/2/2/5/6/22563786estimate_theta_paper.pdf), with Ina Simonovska.<br> Journal of International Economics, 92(1): 34-50. January 2014.
+
+- [Repository](https://github.com/mwaugh0328/PerlaTonettiWaugh.jl) for [**Equilibrium Technology Diffusion, Trade, and Growth**](https://www.waugheconomics.com/uploads/2/2/5/6/22563786/ptw.pdf) with Jesse Perla and Chris Tonetti.<br> American Economic Review 111 (1), January 2021
 
 
 
