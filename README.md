@@ -1,6 +1,6 @@
 ### About me
 
-I'm an Economist and Monetary Advisor at the Federal Reserve Bank of Minneapolis and a research associate at the National Bureau of Economic Research. My research interests lie within the intersection of international trade, macroeconomics, and development.
+I'm an Economist and [Monetary Advisor](https://www.minneapolisfed.org/people/michael-waugh) at the [Federal Reserve Bank of Minneapolis](https://www.minneapolisfed.org/economic-research/economists) and a research associate at the National Bureau of Economic Research. My research interests lie within the intersection of international trade, macroeconomics, and development.
 
 ### About my repositories
 
