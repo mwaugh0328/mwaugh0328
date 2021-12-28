@@ -8,7 +8,9 @@ I use GitHub to post code I'm working on (and learning about) and replication ma
 
 - [Repository](https://github.com/tradewartracker) for code behind [www.tradewartracker.com](www.tradewartracker.com) website.
 
-- [Repository](https://github.com/mwaugh0328/JIE-SW-2014) for [**The Elasticity of Trade: Estimates and Evidence**](http://www.waugheconomics.com/uploads/2/2/5/6/22563786estimate_theta_paper.pdf), with Ina Simonovska.<br> Journal of International Economics, 92(1): 34-50. January 2014.<br> My [**Garvity-Estimation**](https://github.com/mwaugh0328/Gravity-Estimation) repository suplements this with basic gravity estimation and then the computation of the [Eaton and Kortum model](https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-0262.00352) via simmulation.
+- [Repository](https://github.com/mwaugh0328/JIE-SW-2014) for [**The Elasticity of Trade: Estimates and Evidence**](http://www.waugheconomics.com/uploads/2/2/5/6/22563786estimate_theta_paper.pdf), with Ina Simonovska.<br> Journal of International Economics, 92(1): 34-50. January 2014.
+
+- My [**Garvity-Estimation**](https://github.com/mwaugh0328/Gravity-Estimation) repository suplements the JIE repo with basic gravity estimation via STATA and then the computation of the [Eaton and Kortum model](https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-0262.00352) via simmulation.
 
 - [Repository](https://github.com/mwaugh0328/PerlaTonettiWaugh.jl) for [**Equilibrium Technology Diffusion, Trade, and Growth**](https://www.waugheconomics.com/uploads/2/2/5/6/22563786/ptw.pdf) with Jesse Perla and Chris Tonetti.<br> American Economic Review 111 (1), January 2021,
 
