@@ -12,9 +12,7 @@ I use GitHub to post code I'm working on (and learning about) and replication ma
 
 - [Repository](https://github.com/mwaugh0328/PerlaTonettiWaugh.jl) for [**Equilibrium Technology Diffusion, Trade, and Growth**](https://www.waugheconomics.com/uploads/2/2/5/6/22563786/ptw.pdf) with Jesse Perla and Chris Tonetti.<br> American Economic Review 111 (1), January 2021,
 
-### I’m currently learning ...
-
-The Julia language
+### I’m currently learning... Julia
 
 <!--
 **mwaugh0328/mwaugh0328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
