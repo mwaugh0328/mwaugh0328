@@ -1,6 +1,6 @@
 ### About me
 
-I'm an Economist and [Monetary Advisor](https://www.minneapolisfed.org/people/michael-waugh) at the [Federal Reserve Bank of Minneapolis](https://www.minneapolisfed.org). My research interests lie within the intersection of international trade, macroeconomics, and development. And I'm interested in the use of computational tools to answer quantitative questions in these aformentioned domains.  
+I'm an Economist and [Monetary Advisor](https://www.minneapolisfed.org/people/michael-waugh) at the [Federal Reserve Bank of Minneapolis](https://www.minneapolisfed.org). My research interests lie within the intersection of international trade, macroeconomics, and development. And I'm interested in the use of computational tools to answer quantitative questions in these domains.  
 
 ### About my repositories
 
