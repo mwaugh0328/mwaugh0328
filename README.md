@@ -16,7 +16,11 @@ I use GitHub to post code I'm working on (and learning about) and replication ma
 
 - [Data Bootcamp Repo (2019 edition)](https://github.com/mwaugh0328/data_bootcamp_spring_2019) from the course I taught at [NYU Stern economics](https://github.com/nyusterndatabootcamp).
 
-### I’m currently learning... [Julia](https://github.com/JuliaLang)
+### I’m currently learning / working on... 
+
+- [Julia](https://github.com/JuliaLang)
+
+- [HAT: Heterogenous Trade Models](https://github.com/mwaugh0328/heterogeneous-agent-trade)
 
 <!--
 **mwaugh0328/mwaugh0328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
