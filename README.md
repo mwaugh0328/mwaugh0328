@@ -22,7 +22,11 @@ I use GitHub to post code I'm working on (and learning about), replication mater
 
 - [Julia](https://github.com/JuliaLang)
 
-- [HAT: Heterogenous Trade Models](https://github.com/mwaugh0328/heterogeneous-agent-trade)
+- [HAT: Heterogenous Trade Models](https://github.com/mwaugh0328/heterogeneous-agent-trade) 
+
+- The Spatial Incomplete Markets Model 
+
+- [Pricing Inequality](http://www.simonmongey.com/uploads/6/5/6/6/65665741/mw_2022_11_16_minneapolis_fed_online.pdf)
 
 <!--
 **mwaugh0328/mwaugh0328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
