@@ -14,7 +14,7 @@ I use GitHub to post code I'm working on (and learning about), replication mater
 
 - [Repository](https://github.com/mwaugh0328/PerlaTonettiWaugh.jl) for [**Equilibrium Technology Diffusion, Trade, and Growth**](https://www.waugheconomics.com/uploads/2/2/5/6/22563786/ptw.pdf) with Jesse Perla and Chris Tonetti.<br> American Economic Review 111 (1), January 2021.
 
-- [Repository](https://github.com/mwaugh0328/welfare-rural-urban-migration) for [**The Welfare Effects of Encouraging Rural-Urban Migration**](https://www.waugheconomics.com/uploads/2/2/5/6/22563786/lmw.pdf)), with David Lagakos and Mushfiq Mobarak. Accepted at Econometrica.
+- [Repository](https://github.com/mwaugh0328/welfare-rural-urban-migration) for [**The Welfare Effects of Encouraging Rural-Urban Migration**](https://www.waugheconomics.com/uploads/2/2/5/6/22563786/lmw.pdf)), with David Lagakos and Mushfiq Mobarak.<br> Accepted at Econometrica.
 
 - [Data Bootcamp Repo (2019 edition)](https://github.com/mwaugh0328/data_bootcamp_spring_2019) from the course I taught at [NYU Stern economics](https://github.com/nyusterndatabootcamp).
 
