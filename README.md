@@ -24,7 +24,7 @@ I use GitHub to post code I'm working on (and learning about), replication mater
 
 - [Julia](https://github.com/JuliaLang)
 
-- [HAT: Heterogenous Trade](https://github.com/mwaugh0328/heterogeneous-agent-trade) 
+- [HAT: Heterogeneous Agent Trade](https://github.com/mwaugh0328/heterogeneous-agent-trade) 
 
 - The Spatial Incomplete Markets Model 
 
