@@ -28,6 +28,8 @@ I use GitHub to post code I'm working on (and learning about), replication mater
 
 - [Pricing Inequality](https://www.waugheconomics.com/uploads/2/2/5/6/22563786/pricing-inequality.pdf)
 
+- [Teaching Trade at the University of Minnesota](https://github.com/mwaugh0328/minnesota-phd-trade-2025)
+
 <!--
 **mwaugh0328/mwaugh0328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
